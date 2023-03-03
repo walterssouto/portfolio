@@ -1,5 +1,6 @@
 import githubLogo from '../assets/github.svg'
 import upworkLogo from '../assets/upwork.svg'
+import linkedinLogo from '../assets/linkedin.png'
 const SocialMediaIcons = () => {
   return (
     <div className="flex justify-center md:justify-start my-10 gap-7">
@@ -9,7 +10,7 @@ const SocialMediaIcons = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <img alt="linkedin-link" src="../assets/linkedin.png" />
+        <img alt="linkedin-link" src={linkedinLogo} />
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
