@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.88e3c2e7.css",
-    "main.js": "/portfolio/static/js/main.e0f2b06c.js",
+    "main.css": "/portfolio/static/css/main.86ea1007.css",
+    "main.js": "/portfolio/static/js/main.35807e19.js",
     "static/media/profile-image.png": "/portfolio/static/media/profile-image.ac58f74195e832c76304.png",
     "static/media/skills-image.png": "/portfolio/static/media/skills-image.51e40da64df180a7669a.png",
     "static/media/contact-image.jpeg": "/portfolio/static/media/contact-image.37fcb61b49d6aa5c40d3.jpeg",
@@ -11,11 +11,11 @@
     "static/media/upwork.svg": "/portfolio/static/media/upwork.787800301e1d5350d0a73091f336abb1.svg",
     "static/media/github.svg": "/portfolio/static/media/github.ef6227bb541468a5c3474540527964f7.svg",
     "index.html": "/portfolio/index.html",
-    "main.88e3c2e7.css.map": "/portfolio/static/css/main.88e3c2e7.css.map",
-    "main.e0f2b06c.js.map": "/portfolio/static/js/main.e0f2b06c.js.map"
+    "main.86ea1007.css.map": "/portfolio/static/css/main.86ea1007.css.map",
+    "main.35807e19.js.map": "/portfolio/static/js/main.35807e19.js.map"
   },
   "entrypoints": [
-    "static/css/main.88e3c2e7.css",
-    "static/js/main.e0f2b06c.js"
+    "static/css/main.86ea1007.css",
+    "static/js/main.35807e19.js"
   ]
 }
